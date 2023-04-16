@@ -21,12 +21,12 @@ height: 65%;
 }
 
 #btn {
-background-color: #fb0066;
+background-color: #ed2e08ee;
 }
 
 input[type=button] {
 font-family: 'Orbitron', sans-serif;
-background-color: #64278f;
+background-color: #2339dd;
 color: white;
 border: solid black 0.5px;
 width: 100%;
